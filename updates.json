@@ -11,5 +11,15 @@
       "sha256": "ce11932b4c771d31d6e94ca274b5dc93e2fce1a2dae394c7aa674c66317b7628"
     }
   ],
-  "app": []
+  "app": [
+    {
+      "versionCode": 2,
+      "versionName": "1.1",
+      "date": "2026-10-26",
+      "notes": "The app now tells you when there is a robot or app update and installs it with one tap. ⋮ → Updates lists every version, older ones too.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.1/Mochi-1.1.apk",
+      "size": 87666,
+      "sha256": "30e5357c0e529312202e8dff176f4266b37e72ac3836760538a30894955bded2"
+    }
+  ]
 }
