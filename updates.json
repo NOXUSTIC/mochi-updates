@@ -1,5 +1,15 @@
 {
   "schema": 1,
-  "firmware": [],
+  "firmware": [
+    {
+      "version": 6,
+      "name": "v6",
+      "date": "2026-10-26",
+      "notes": "Updates now come from the Mochi update page and must carry Bot Engineers' signature. After an update the robot reconnects by itself. The charger wire (TP4056 CHRG to GPIO3) is found automatically; Robot info shows it.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v6/mochi-firmware-v6.bin",
+      "size": 1742417,
+      "sha256": "ce11932b4c771d31d6e94ca274b5dc93e2fce1a2dae394c7aa674c66317b7628"
+    }
+  ],
   "app": []
 }
