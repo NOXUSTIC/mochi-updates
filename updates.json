@@ -22,6 +22,15 @@
   ],
   "app": [
     {
+      "versionCode": 3,
+      "versionName": "1.2",
+      "date": "2026-10-27",
+      "notes": "A new elegant look in Bot Engineers' style that follows your phone's light or dark mode, with a new icon.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.2/Mochi-1.2.apk",
+      "size": 112240,
+      "sha256": "820e8fcc3fbe72a5c177bddad3886b098fb6162763af8768e7fe8bd2caa79f32"
+    },
+    {
       "versionCode": 2,
       "versionName": "1.1",
       "date": "2026-10-26",
