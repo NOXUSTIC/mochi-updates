@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 7,
+      "name": "v7",
+      "date": "2026-10-27",
+      "notes": "Synced lyrics for Spotify songs (Music > Show lyrics). Check for updates now installs updates by itself. A new elegant look in Bot Engineers' style; Retro stays as a theme. The music screen no longer keeps counting when WiFi drops. YouTube Music and updating from a file are removed.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v7/mochi-firmware-v7.bin",
+      "size": 1732465,
+      "sha256": "8331efc012be9bc783bc36821571a590bf51ce31a5f11a6df0b9134b1b366599"
+    },
+    {
       "version": 6,
       "name": "v6",
       "date": "2026-10-26",
