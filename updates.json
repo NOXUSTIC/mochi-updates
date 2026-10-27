@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 8,
+      "name": "v8",
+      "date": "2026-10-27",
+      "notes": "Lyrics in Bengali and other languages: the robot writes Bengali and Hindi in Latin letters, and with the app open it shows any script. The app finds lyrics the robot missed, and the robot keeps the lyrics of its last 6 songs. Daily notes now come only from the robot; the app sets the time.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v8/mochi-firmware-v8.bin",
+      "size": 1738529,
+      "sha256": "ec100f93a000bc15e42eaf8afa2fe648885923ef28413141c3dee1d23deb7108"
+    },
+    {
       "version": 7,
       "name": "v7",
       "date": "2026-10-27",
