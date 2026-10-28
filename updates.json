@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 10,
+      "name": "v10",
+      "date": "2026-10-28",
+      "notes": "Lyrics: one big line, Bangla stays in Bangla letters, faster and in better time. Three watch faces, focus timer, stopwatch and calendar (3 clicks). Pictures and maps on the screen, note fonts, 1000 daily notes. Works with the phone player of app 1.4.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v10/mochi-firmware-v10.bin",
+      "size": 1793920,
+      "sha256": "1ed959a15e44d892d69cab08f9f3bdd569ab45f43fbd0a1aa1d58382f32b4307"
+    },
+    {
       "version": 9,
       "name": "v9",
       "date": "2026-10-27",
