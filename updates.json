@@ -67,6 +67,15 @@
   ],
   "app": [
     {
+      "versionCode": 6,
+      "versionName": "1.5",
+      "date": "2026-10-28",
+      "notes": "A short welcome on the first start, then Mochi's own app guide. Keeps the guide done when the robot moves to a new address.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.5/Mochi-1.5.apk",
+      "size": 136816,
+      "sha256": "c57834ba30a9bd7bbb538781e96c7f790d045e7d19fd617f4620e63df7cddf78"
+    },
+    {
       "versionCode": 5,
       "versionName": "1.4",
       "date": "2026-10-28",
