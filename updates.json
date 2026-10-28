@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 11,
+      "name": "v11",
+      "date": "2026-10-28",
+      "notes": "Sound: the buzzer on GPIO0 rings the focus timer, beeps the stopwatch like a Casio, chimes for notes, popups and charging, clicks for the button, and Ring robot finds it. Settings, Sound: buzzer kind (passive, active, active low), volume, quiet at night. Includes everything in v10.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v11/mochi-firmware-v11.bin",
+      "size": 1807361,
+      "sha256": "6a972875b26a2538f6299ae13f9099a93c16a1bb50c6eb87a93aa51cb220204c"
+    },
+    {
       "version": 10,
       "name": "v10",
       "date": "2026-10-28",
