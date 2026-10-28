@@ -67,6 +67,15 @@
   ],
   "app": [
     {
+      "versionCode": 7,
+      "versionName": "1.6",
+      "date": "2026-10-29",
+      "notes": "Fixes the welcome: it shows once on a new phone, then the app goes straight to finding Mochi. The robot list and the address box take taps again after the welcome.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.6/Mochi-1.6.apk",
+      "size": 136816,
+      "sha256": "18d0cb192732f1cb697819dbe5c9199705ef1a383f5f8277f6563b40075590c5"
+    },
+    {
       "versionCode": 6,
       "versionName": "1.5",
       "date": "2026-10-28",
