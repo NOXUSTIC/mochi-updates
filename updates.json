@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 12,
+      "name": "v12",
+      "date": "2026-10-28",
+      "notes": "Faces has its own tab again. A short guide shows new users around the app the first time (again from the menu or Settings). Includes the buzzer (v11) and everything in v10.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v12/mochi-firmware-v12.bin",
+      "size": 1809745,
+      "sha256": "f10e526df5cfbcd83783a90200814dd65de7bf942e3af75efae3dc87efca6c91"
+    },
+    {
       "version": 11,
       "name": "v11",
       "date": "2026-10-28",
