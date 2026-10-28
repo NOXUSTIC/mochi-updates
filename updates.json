@@ -49,6 +49,15 @@
   ],
   "app": [
     {
+      "versionCode": 5,
+      "versionName": "1.4",
+      "date": "2026-10-28",
+      "notes": "Phone player: Spotify on this phone shows on Mochi, offline too, and the robot's button controls it. New Time tab, pictures and maps in Studio, lyrics sync and version picker, smoother taps.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.4/Mochi-1.4.apk",
+      "size": 132720,
+      "sha256": "8121f452f536f47c25d8222efc88dfc5ce72175092f630bf221440456e21d368"
+    },
+    {
       "versionCode": 4,
       "versionName": "1.3",
       "date": "2026-10-27",
