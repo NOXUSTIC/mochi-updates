@@ -85,6 +85,15 @@
   ],
   "app": [
     {
+      "versionCode": 8,
+      "versionName": "1.7",
+      "date": "2026-10-29",
+      "notes": "Robot updates from the app now show a full-screen update: UPDATING, an hourglass that runs and turns over, the bar and 'Your robot is getting better'.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.7/Mochi-1.7.apk",
+      "size": 136880,
+      "sha256": "c99748dc91ca2d5a3e445d35001b8b77562acd77207d423443edab200708785b"
+    },
+    {
       "versionCode": 7,
       "versionName": "1.6",
       "date": "2026-10-29",
