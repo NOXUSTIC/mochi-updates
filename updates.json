@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 15,
+      "name": "v15",
+      "date": "2026-10-29",
+      "notes": "Each robot now makes its own random WiFi password for its own WiFi and setup hotspot (it used to be mochi1234 on every robot). After this update the robot's WiFi has a new password: it is on the robot's screen and in the app under Settings -> Connection.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v15/mochi-firmware-v15.bin",
+      "size": 1814480,
+      "sha256": "c7453065703b68a60eefd88ba82df30c0dae9da86d8e43be6cbec84844350077"
+    },
+    {
       "version": 14,
       "name": "v14",
       "date": "2026-10-29",
