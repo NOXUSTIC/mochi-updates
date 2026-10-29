@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 14,
+      "name": "v14",
+      "date": "2026-10-29",
+      "notes": "A new update screen: UPDATING, an hourglass that runs and turns over, the bar and 'Your robot is getting better' (on the robot and in the app, from the next update on). The Music tab's time bar can now be dragged to jump anywhere in a Spotify song.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v14/mochi-firmware-v14.bin",
+      "size": 1813537,
+      "sha256": "2bd0185917d3fafcd62aa77fcc6d3fceea52561d36fe779ba17d7cf70cbb12aa"
+    },
+    {
       "version": 13,
       "name": "v13",
       "date": "2026-10-29",
