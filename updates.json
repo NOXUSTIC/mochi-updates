@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 16,
+      "name": "v16",
+      "date": "2026-10-29",
+      "notes": "The app and the robot now talk encrypted: pairing by a key exchange (the code, the password and the token never travel), every command and answer encrypted and sealed against replays. Someone on the same WiFi learns nothing. Android phones need the Mochi app 1.8 for the phone player and robot updates.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v16/mochi-firmware-v16.bin",
+      "size": 1827984,
+      "sha256": "4fc7ff86ab20ab1c55ae9d8906f8d974d959d61b4118b34f3e7de8611492fee1"
+    },
+    {
       "version": 15,
       "name": "v15",
       "date": "2026-10-29",
