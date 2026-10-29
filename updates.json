@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 13,
+      "name": "v13",
+      "date": "2026-10-29",
+      "notes": "Bot chats: each robot now shows only what it says itself, so two bots side by side read like a conversation; the app no longer needs a Show on robot button. The app guide now waits until the password offer after pairing is closed.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v13/mochi-firmware-v13.bin",
+      "size": 1809890,
+      "sha256": "2ec3884afaf965d4f81ca3f0ef31efe44ae4c0c9ac00650bdfed3c9418c53432"
+    },
+    {
       "version": 12,
       "name": "v12",
       "date": "2026-10-28",
