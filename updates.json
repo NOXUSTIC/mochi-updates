@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 17,
+      "name": "v17",
+      "date": "2026-10-29",
+      "notes": "Fixes 'replay' errors from v16: Studio text, picture and map show on the robot again, and lyrics in other scripts are drawn again. The app's page and the phone player no longer get in each other's way.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v17/mochi-firmware-v17.bin",
+      "size": 1828306,
+      "sha256": "c866384404be58b543ab6e6c32929c97a0413fefb427b66259c6f08f8cf59bac"
+    },
+    {
       "version": 16,
       "name": "v16",
       "date": "2026-10-29",
