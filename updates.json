@@ -103,6 +103,15 @@
   ],
   "app": [
     {
+      "versionCode": 9,
+      "versionName": "1.8",
+      "date": "2026-10-29",
+      "notes": "Talks to robots on firmware v16 encrypted (the sealed link): the phone player and robot updates keep working with v16. Robots on older firmware still work.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.8/Mochi-1.8.apk",
+      "size": 140976,
+      "sha256": "ccaf380e8ef28eb36904290bc11d264750bcd148d5c2b9f780906611ab4c6d92"
+    },
+    {
       "versionCode": 8,
       "versionName": "1.7",
       "date": "2026-10-29",
