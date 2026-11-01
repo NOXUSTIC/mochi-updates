@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 19,
+      "name": "v19",
+      "date": "2026-11-01",
+      "notes": "New: weather on the watch faces and Home (set your place in Settings -> Weather), pet mode with Food, Fun and Rest (Faces -> Needs), Dino Run, a second one-button game, and day and night life: a good-morning greeting, a yawn at night, sleep from 23:00 when left alone, and a birthday surprise (Settings -> Your birthday). Messages from your phone's apps can now pop up on Mochi with Android app 1.9.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v19/mochi-firmware-v19.bin",
+      "size": 1849617,
+      "sha256": "c1a1a5657e618ce64d8d7e9c33d734fd0c11043b44164d2a84126d71691594ec"
+    },
+    {
       "version": 18,
       "name": "v18",
       "date": "2026-11-01",
