@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 18,
+      "name": "v18",
+      "date": "2026-11-01",
+      "notes": "New: Flappy Mochi, a one-button game (open it from the tools after the calendar, or Time tab -> Game). The robot now gets the time from the internet by itself on any WiFi with internet, and says plainly when it has no time yet.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v18/mochi-firmware-v18.bin",
+      "size": 1832064,
+      "sha256": "08cec211bd22364d93dcb624a001c607e9483413d3ddc0e3fbc0b04c4b60e6a5"
+    },
+    {
       "version": 17,
       "name": "v17",
       "date": "2026-10-29",
