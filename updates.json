@@ -130,6 +130,15 @@
   ],
   "app": [
     {
+      "versionCode": 10,
+      "versionName": "1.9",
+      "date": "2026-11-01",
+      "notes": "New: messages from the apps you pick (WhatsApp, Messenger, imo, Gmail and more) pop up on Mochi, in any language. Turn them on in Settings -> Phone notifications. Also: weather, pet mode, Dino Run and birthday settings for firmware v19.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.9/Mochi-1.9.apk",
+      "size": 140976,
+      "sha256": "be7011f284d93b015929c03b9c7a6503a79260b69ee1b64095774b637d6bd316"
+    },
+    {
       "versionCode": 9,
       "versionName": "1.8",
       "date": "2026-10-29",
