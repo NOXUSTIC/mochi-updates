@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 20,
+      "name": "v20",
+      "date": "2026-11-03",
+      "notes": "Pet mode is removed: no more Needs card, food reminders or feeding. Weather, phone messages, both games, the good-morning greeting, the night sleep and the birthday surprise stay.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v20/mochi-firmware-v20.bin",
+      "size": 1846385,
+      "sha256": "b6867b43e42993d39c157b59920bb3c5ad31af8508f0a42830e5b4fdfd622dd7"
+    },
+    {
       "version": 19,
       "name": "v19",
       "date": "2026-11-01",
