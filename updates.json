@@ -148,6 +148,15 @@
   ],
   "app": [
     {
+      "versionCode": 11,
+      "versionName": "1.10",
+      "date": "2026-11-03",
+      "notes": "New: an Inbox tab for phone messages. Pick the apps that pop up on Mochi and see the latest messages sent to it (kept on your phone only until the app closes).",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.10/Mochi-1.10.apk",
+      "size": 145072,
+      "sha256": "4a0b4b1c6a4e91776e5d3d3a56a32893e324b5db2447ee3681a09fd8c4b8185d"
+    },
+    {
       "versionCode": 10,
       "versionName": "1.9",
       "date": "2026-11-01",
