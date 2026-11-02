@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 21,
+      "name": "v21",
+      "date": "2026-11-03",
+      "notes": "Dino Run is removed; Flappy Mochi stays. Phone messages now have their own Inbox tab in the Android app 1.10.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v21/mochi-firmware-v21.bin",
+      "size": 1843889,
+      "sha256": "13f2f99f6831c949d2b6584693c13c712d41c68ebbb1ab34bb5a43f1ed53997e"
+    },
+    {
       "version": 20,
       "name": "v20",
       "date": "2026-11-03",
