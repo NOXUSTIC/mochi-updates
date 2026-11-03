@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 24,
+      "name": "v24",
+      "date": "2026-11-03",
+      "notes": "The Mochi logo now stands out in dark mode.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v24/mochi-firmware-v24.bin",
+      "size": 1843521,
+      "sha256": "3e552eae49b538813d5f85514b3eb2deae76a081ff4e44d5b2c0cef7b73e6e93"
+    },
+    {
       "version": 23,
       "name": "v23",
       "date": "2026-11-03",
