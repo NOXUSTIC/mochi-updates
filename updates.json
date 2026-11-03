@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 25,
+      "name": "v25",
+      "date": "2026-11-03",
+      "notes": "Nine new moods for Mochi: Happy, Laugh, Wink, Starstruck, Surprised, Thinking, Meh, Angry and Dizzy. Pick them in the Faces tab.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v25/mochi-firmware-v25.bin",
+      "size": 1881136,
+      "sha256": "22a43c2db9ab99b1c8b593d2b64cb468cc2d68991c54a5150dedef6f7668b914"
+    },
+    {
       "version": 24,
       "name": "v24",
       "date": "2026-11-03",
