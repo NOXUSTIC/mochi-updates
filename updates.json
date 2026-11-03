@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 22,
+      "name": "v22",
+      "date": "2026-11-03",
+      "notes": "New look: the Neo brutal theme, now the default in the app, with bold black outlines, hard shadows and bright yellow. Elegant and Retro are still in Settings -> Theme.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v22/mochi-firmware-v22.bin",
+      "size": 1845249,
+      "sha256": "bb2943151f4cfcc978698f43c1d401ad5b49c37367f76e08c6b2b4149a9ca186"
+    },
+    {
       "version": 21,
       "name": "v21",
       "date": "2026-11-03",
