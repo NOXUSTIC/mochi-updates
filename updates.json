@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 23,
+      "name": "v23",
+      "date": "2026-11-03",
+      "notes": "A new look for Mochi: the new logo, a dark face with two yellow eyes, in the app and on the setup page.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v23/mochi-firmware-v23.bin",
+      "size": 1843361,
+      "sha256": "36e84e0d3099ec5aecb9e66308f104e782224d3da99b0479f23a7daaf8fbbb75"
+    },
+    {
       "version": 22,
       "name": "v22",
       "date": "2026-11-03",
