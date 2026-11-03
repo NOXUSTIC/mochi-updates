@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 27,
+      "name": "v27",
+      "date": "2026-11-04",
+      "notes": "The calendar is removed. 3 clicks on Mochi now go focus timer, stopwatch, Flappy Mochi.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v27/mochi-firmware-v27.bin",
+      "size": 1797234,
+      "sha256": "cd328372d9b3eb44ca755f4b58b8533f9011f98a8c6337006c16b8b0dcccc026"
+    },
+    {
       "version": 26,
       "name": "v26",
       "date": "2026-11-03",
