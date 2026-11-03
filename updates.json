@@ -175,6 +175,15 @@
   ],
   "app": [
     {
+      "versionCode": 13,
+      "versionName": "1.12",
+      "date": "2026-11-03",
+      "notes": "The Mochi logo now stands out in dark mode.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.12/Mochi-1.12.apk",
+      "size": 157360,
+      "sha256": "759751b239cdc6711f6331f9e7373cfddf7c9bca255158943d99a5cc120b751a"
+    },
+    {
       "versionCode": 12,
       "versionName": "1.11",
       "date": "2026-11-03",
