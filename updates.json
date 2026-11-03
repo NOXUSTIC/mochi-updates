@@ -166,6 +166,15 @@
   ],
   "app": [
     {
+      "versionCode": 12,
+      "versionName": "1.11",
+      "date": "2026-11-03",
+      "notes": "The new Mochi logo: a new app icon and notification icon.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.11/Mochi-1.11.apk",
+      "size": 157360,
+      "sha256": "a78e384767a418d60d3e25bd7bc0e32290da69cd8c8b576e119026af1cf5222b"
+    },
+    {
       "versionCode": 11,
       "versionName": "1.10",
       "date": "2026-11-03",
