@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 26,
+      "name": "v26",
+      "date": "2026-11-03",
+      "notes": "Emoji packs: download new moods from Faces -> Download emojis (Cats, Dogs, Bunny, Panda, Robot, Ghost). A cleaner Settings, Spotify behind one Connect button, and the Studio map is removed.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v26/mochi-firmware-v26.bin",
+      "size": 1799265,
+      "sha256": "7b913988a17c6274387e94b01034beb060cec6e8c421ced02a5b2dcf546f8f29"
+    },
+    {
       "version": 25,
       "name": "v25",
       "date": "2026-11-03",
