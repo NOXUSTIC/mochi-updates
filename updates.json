@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 31,
+      "name": "v31",
+      "date": "2026-11-05",
+      "notes": "Robots now talk with stories of their own: twists, actions and feelings, using what they know (time of day, weather, battery, their memory of friends). Big stability fixes: robots keep their WiFi, stay up with Spotify and emoji packs, and friends no longer drop out of a chat. The music screen shows a spinning music disc.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v31/mochi-firmware-v31.bin",
+      "size": 1832401,
+      "sha256": "8944212ebd21970ed32023aa0b946d1244b1375f6db39ba6669bcb1bac36211d"
+    },
+    {
       "version": 30,
       "name": "v30",
       "date": "2026-11-04",
