@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 30,
+      "name": "v30",
+      "date": "2026-11-04",
+      "notes": "Robots now have a personality and a memory: they remember every robot they meet, grow from friends to best friends, decide for themselves whether to chat and what to say, and talk about today's news. Optional: add a Claude API key in the Talk tab for free conversations.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v30/mochi-firmware-v30.bin",
+      "size": 1832688,
+      "sha256": "4d62b52ff8f9f0dc26a5cc313f677d8cd37ff742420c4d427d95890d7e1a565d"
+    },
+    {
       "version": 28,
       "name": "v28",
       "date": "2026-11-04",
