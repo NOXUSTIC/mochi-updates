@@ -211,6 +211,15 @@
   ],
   "app": [
     {
+      "versionCode": 15,
+      "versionName": "1.14",
+      "date": "2026-11-04",
+      "notes": "A fresh Neo brutal look for finding your Mochi, to match the robot's app.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.14/Mochi-1.14.apk",
+      "size": 157360,
+      "sha256": "ceb7d56ea55d5a66df964a7cc85cc4844b3c7a9f375fb0e23a3c756f5d5b63bb"
+    },
+    {
       "versionCode": 14,
       "versionName": "1.13",
       "date": "2026-11-04",
