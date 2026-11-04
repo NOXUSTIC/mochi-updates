@@ -211,6 +211,15 @@
   ],
   "app": [
     {
+      "versionCode": 16,
+      "versionName": "1.15",
+      "date": "2026-11-04",
+      "notes": "The help for finding your Mochi now shows only when no robot answers.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.15/Mochi-1.15.apk",
+      "size": 157360,
+      "sha256": "7e3fdcb74aaf44b4ad85a3fc5eadd2809f25eb1e824bbfce080a7c0edc990d91"
+    },
+    {
       "versionCode": 15,
       "versionName": "1.14",
       "date": "2026-11-04",
