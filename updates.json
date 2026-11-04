@@ -229,6 +229,15 @@
   ],
   "app": [
     {
+      "versionCode": 17,
+      "versionName": "1.16",
+      "date": "2026-11-05",
+      "notes": "Smoother music: no album covers sent to the robot, which shows its new spinning music disc.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.16/Mochi-1.16.apk",
+      "size": 157360,
+      "sha256": "6c23e8148f5e4d8d227e16773194492db30e284352fb4aaa31fe3b96dfc4766b"
+    },
+    {
       "versionCode": 16,
       "versionName": "1.15",
       "date": "2026-11-04",
