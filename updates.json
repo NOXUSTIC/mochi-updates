@@ -2,6 +2,15 @@
   "schema": 1,
   "firmware": [
     {
+      "version": 28,
+      "name": "v28",
+      "date": "2026-11-04",
+      "notes": "Two robots on the same WiFi now chat with each other and both show up in the app. Each robot now has its own ID; phones stay paired.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/firmware-v28/mochi-firmware-v28.bin",
+      "size": 1797441,
+      "sha256": "b904a90d49d4831fde2624f8f77d37f1a75ed1e7288e884bc13b5260876ab96a"
+    },
+    {
       "version": 27,
       "name": "v27",
       "date": "2026-11-04",
