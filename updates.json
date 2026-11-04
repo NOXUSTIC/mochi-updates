@@ -211,6 +211,15 @@
   ],
   "app": [
     {
+      "versionCode": 14,
+      "versionName": "1.13",
+      "date": "2026-11-04",
+      "notes": "Opens on a list of your Mochis on this WiFi: tap the one you want to say hello to.",
+      "url": "https://github.com/NOXUSTIC/mochi-updates/releases/download/app-v1.13/Mochi-1.13.apk",
+      "size": 157360,
+      "sha256": "1890547b4e11a50de2e504fec79317caec2dfd8b0eb2586e684763aafbdc603d"
+    },
+    {
       "versionCode": 13,
       "versionName": "1.12",
       "date": "2026-11-03",
